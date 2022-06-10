@@ -1,0 +1,3 @@
+[submodule "mypackages/wifidog_new"]
+	path = mypackages/wifidog_new
+	url = https://github.com/MetaBloxIO/auth-server.git
